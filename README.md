@@ -1,1 +1,1 @@
-# pluging.videos.allosaurus-stream
+allosaurus-stream ADDON
